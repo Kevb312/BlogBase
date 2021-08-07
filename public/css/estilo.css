@@ -1,0 +1,193 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); /*open sans*/
+
+
+body{
+	font-family: 'Open Sans', sans-serif;;
+}
+
+#mainNav{
+	padding-bottom: 2px;
+	background-color: white;
+
+}
+
+#mainNav a{
+	color: #888888;
+	
+}
+
+#mainNav a:hover{
+	color: #f9a39c;
+	
+}
+a{
+	text-decoration: none;
+}
+#seccionUno{
+	padding-top: 5rem;
+	padding-bottom: 2rem;
+}
+
+#seccionUno a {
+	color: black;
+}
+
+#seccionUno a:hover {
+	color: #6c9c7f;
+}
+
+
+#blogs a {
+	color: #fd2b81;
+	font-weight: bolder;
+}
+
+#blogs a {
+	color: #fd2b81;
+	font-weight: bolder;
+}
+
+a {
+	color: #fd2b81;
+	
+}
+
+#cate{
+	color: #fd2b81;
+	
+}
+
+#by{
+	margin-top: -20px;
+	color: #888888;
+}
+
+
+
+#footer{
+	background-color: #282828;
+	color: #888888;
+	padding-top: 3rem;
+}
+
+#footer h1{
+	
+	color:#f9a39c;
+}
+
+#footer a {
+	color: #888888;
+}
+
+#footer a:hover{
+	color: #f9a39c;
+}
+
+#botonUno{
+	color: #fa2c81;
+	left: 50px;
+	border-color: #fa2c81;
+
+}
+#botonUno:hover{
+	background-color: #fa2c81;
+	color: white;
+
+}
+
+#imgBlog{
+	padding-top: 3rem;
+	align-content: center;
+}
+
+#cards card{
+	background-color: #f5f3f5;
+}
+
+#cards p{
+	color: #888888;
+}
+
+#cards a {
+	color: #f9a39c;
+}
+
+#copy{
+	padding-top: 3rem;
+}
+
+
+#contacto{
+	background-color: white;
+
+}
+
+#contacto h1{
+	color: #888888;
+}
+
+#contacto label{
+	color: #888888;
+}
+
+#contacto button {
+	background-color: #888888;
+	color: white;
+}
+
+#contacto button:hover{
+	background-color: #fa2c81;
+	color: white;
+
+}
+
+
+#menuAdmin{
+	background-color: #343a40;
+	padding-top: 5rem;
+	padding-bottom: 2rem;
+	color: #c2c7d0;
+}
+
+#adminDash{
+	padding-top: 5rem;
+	padding-bottom: 2rem;
+}
+
+
+#contenidoPost img{
+	width: 40rem;
+	display:block;
+	margin:auto;
+}
+
+#contenidoPost{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#comentarios{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#ultimasEntradas{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 0.9rem;
+}
+
+#tituloPost{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900;
+}
+
+#comentarioBtn{
+	color: black;
+	left: 50px;
+	border-color: #cccccc;
+}
+
+#comentarioBtn:hover{
+	background-color: #282828;
+	color: #cccccc;
+}
